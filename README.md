@@ -1,5 +1,10 @@
 ### Hi, I'm Mateusz 👋
 
+<h3> Technologies: </h3>
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+</p>
 <!--
 **m-miler/m-miler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
