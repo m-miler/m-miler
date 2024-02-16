@@ -2,7 +2,7 @@
 
 #### About Me :
 
-- 🔭 I'm currently working on Personal Fincnace application in Django 
+- 🔭 I'm currently working on Home Fincnace application
 - 🌱 I’m currently learning GO, Docker
 
 #### Languages and Tools :
