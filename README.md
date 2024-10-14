@@ -1,7 +1,6 @@
 ### Hi, I'm Mateusz 👋
 
 - 🔭 I'm currently working on Home Fincnace application
-- 🌱 I’m currently learning Flask, Docker
 
 #### Languages and Tools :
 <p>
