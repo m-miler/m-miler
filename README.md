@@ -1,6 +1,6 @@
 ### Hi, I'm Mateusz 👋
 
-- 🔭 I'm currently working on ERP application
+- 🔭 I'm currently working on ERP application.
 
 #### Languages and Tools :
 <p>
