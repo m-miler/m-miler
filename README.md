@@ -12,5 +12,7 @@
   <img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width=30, height=30/>&nbsp;
   <img alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width=30, height=30/>&nbsp;
   <img alt="github actions" src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg" width=30, height=30 />&nbsp;
-  
+  <img alt="angular" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-orginal.svg" width=30, height=30 />&nbsp;
+  <img alt="rxjs" src="https://github.com/devicons/devicon/blob/master/icons/rxjs/rxjs-original.svg" width=30, height=30 />&nbsp;
+  <img alt="csharp" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width=30, height=30 />&nbsp;
 </p>
